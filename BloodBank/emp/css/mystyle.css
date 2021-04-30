@@ -1,0 +1,34 @@
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #68020f;
+}
+
+div.card{
+    background-color: #f8f0c6;
+}
+
+a{
+    text-decoration: none;
+}
+
+label {
+    font-weight: normal;
+}
+
+thead, thead th{
+    background-color: #ff1a1a;
+    color: #fffffe;
+    font-weight: normal;
+}
+
+.tr {
+    background-color: #f8f2da;
+}
+
+.tr-next {
+    background-color: #e6ddc5;
+}
